@@ -1,6 +1,6 @@
 # 🔑 Module 08 — Authentification HTTPS et SSH
 
-> ⏱️ **Durée** : 30 min
+> ⏱️ **Durée** : 30 min\
 > 🎯 **Objectif** : comprendre les deux façons de s'authentifier auprès de GitHub et configurer les deux, dont la génération d'une clé SSH.
 
 ---

@@ -1,6 +1,6 @@
 # ⏪ Module 03 — Historique et retour arrière
 
-> ⏱️ **Durée** : 30 min
+> ⏱️ **Durée** : 30 min\
 > 🎯 **Objectif** : naviguer dans l'historique et savoir annuler **n'importe quelle** erreur sans paniquer.
 
 ---

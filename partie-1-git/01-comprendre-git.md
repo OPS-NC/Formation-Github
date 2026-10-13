@@ -1,6 +1,6 @@
 # 🧠 Module 01 — Comprendre Git
 
-> ⏱️ **Durée** : 20 min
+> ⏱️ **Durée** : 20 min\
 > 🎯 **Objectif** : comprendre *ce que fait* Git avant d'apprendre *comment* s'en servir.
 
 ---

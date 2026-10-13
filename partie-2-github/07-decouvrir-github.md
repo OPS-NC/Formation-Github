@@ -1,6 +1,6 @@
 # 🐙 Module 07 — Découvrir GitHub
 
-> ⏱️ **Durée** : 15 min
+> ⏱️ **Durée** : 15 min\
 > 🎯 **Objectif** : prendre ses repères dans l'interface, sécuriser son compte et créer son premier dépôt distant.
 
 ---

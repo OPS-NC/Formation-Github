@@ -1,7 +1,7 @@
 # 🎓 Formation Git & GitHub — de zéro à la collaboration
 
-> **Durée** : 6 heures (≈ 3h Git + ≈ 3h GitHub)
-> **Public** : informaticiens qui n'ont jamais utilisé Git ni GitHub
+> **Durée** : 6 heures (≈ 3h Git + ≈ 3h GitHub)\
+> **Public** : informaticiens qui n'ont jamais utilisé Git ni GitHub\
 > **Format** : 100 % pratique, chaque notion est appliquée immédiatement dans un TP fil rouge
 
 ---

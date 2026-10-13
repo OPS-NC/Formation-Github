@@ -1,6 +1,6 @@
 # 🧺 Module 05 — Stash et boîte à outils
 
-> ⏱️ **Durée** : 15 min
+> ⏱️ **Durée** : 15 min\
 > 🎯 **Objectif** : mettre du travail en cours de côté, et découvrir quelques commandes qui font gagner du temps.
 
 ---

@@ -1,6 +1,6 @@
 # 🛠️ Module 00 — Préparation du poste
 
-> ⏱️ **Durée** : 15 min
+> ⏱️ **Durée** : 15 min\
 > 🎯 **Objectif** : avoir un poste Windows prêt, un terminal maîtrisé et un Git configuré à votre nom.
 
 ---

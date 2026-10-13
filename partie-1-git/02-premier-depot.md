@@ -1,6 +1,6 @@
 # 🧪 Module 02 — TP : premier dépôt
 
-> ⏱️ **Durée** : 45 min
+> ⏱️ **Durée** : 45 min\
 > 🎯 **Objectif** : créer un dépôt, écrire une petite application Python et maîtriser le cycle **modifier → `add` → `commit`**.
 
 ---

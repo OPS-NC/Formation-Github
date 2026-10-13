@@ -1,6 +1,6 @@
 # 🌿 Module 04 — Branches et fusions
 
-> ⏱️ **Durée** : 35 min
+> ⏱️ **Durée** : 35 min\
 > 🎯 **Objectif** : développer en parallèle sur des branches, les fusionner et résoudre un conflit.
 
 ---

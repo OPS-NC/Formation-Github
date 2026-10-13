@@ -1,6 +1,6 @@
 # 🧬 Module 06 — Cloner et synchroniser en local
 
-> ⏱️ **Durée** : 25 min
+> ⏱️ **Durée** : 25 min\
 > 🎯 **Objectif** : comprendre `clone`, les dépôts distants (*remotes*), `push`, `fetch` et `pull`… **sans Internet**, en simulant un serveur sur votre propre poste.
 
 💡 Tout ce que vous apprenez ici fonctionne **exactement** de la même manière avec GitHub. GitHub n'est qu'un dépôt distant de plus, hébergé ailleurs.
